@@ -1,4 +1,4 @@
-package com.inventory;
+package com.inventory.controller;
 
 import com.inventory.dto.InventoryResponse;
 import com.inventory.service.InventoryService;
